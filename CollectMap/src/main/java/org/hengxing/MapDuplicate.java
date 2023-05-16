@@ -11,4 +11,8 @@ public class MapDuplicate {
         map.put("coco", new User("hengxing", 12));
         System.out.println("map = " + map);
     }
+
+    /*
+    * 这里是为了测试pullrequst
+    * */
 }
