@@ -11,4 +11,6 @@ public class MapDuplicate {
         map.put("coco", new User("hengxing", 12));
         System.out.println("map = " + map);
     }
+
+    /*原来是要在这里测试*/
 }
